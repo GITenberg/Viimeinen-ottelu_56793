@@ -1,0 +1,35 @@
+_repo: Viimeinen-ottelu_56793
+_version: 0.0.1
+alternative_title: The game. Finnish
+contributor:
+  translator:
+    agent_name: Merikallio, Einari
+    birthdate: 1888
+    deathdate: 1961
+    gutenberg_agent_id: '47675'
+    url: http://www.gutenberg.org/2009/agents/47675
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2018-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56793'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boxing stories'
+- !lcc 'PS'
+- !lcsh 'Boxers (Sports) -- Fiction'
+- GITenberg
+title: Viimeinen ottelu
+url: http://www.gutenberg.org/ebooks/56793
